@@ -1,4 +1,4 @@
-Spectral Element Modeling of Acoustic to Seismic Coupling over Topography
+Supporting Data used in *Spectral Element Modeling of Acoustic to Seismic Coupling over Topography*
 ===========================================================
 
 Parameter files for the SPECFEM3D runs used in
