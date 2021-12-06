@@ -1,7 +1,8 @@
 Bishop_JGR_2021_Spectral_Element_Modeling_of_Acoustic_to_Seismic_Coupling_over_Topography
 =====================================================
 
-Parameter files for the SPECFEM3D runs used in \\
+Parameter files for the SPECFEM3D runs used in
+<br />
 Bishop, J. W., Fee, D., Modrak, R., Tape, C. & Kim, K. (####). Spectral Element Modeling of Acoustic to Seismic Coupling over Topography, JGR: Solid Earth
 
 Installation
@@ -9,7 +10,7 @@ Installation
 To download this repository, execute the following commands:
 
 ```
-git clone https://github.com/jwbishop/Bishop_JGR_2021_Spectral_Element_Modeling_of_Acoustic_to_Seismic_Coupling_over_Topography.git
+git clone https://github.com/jwbishop/https://github.com/jwbishop/Bishop_et_al_JGR_Spectral_Element_Modeling_of_Acoustic_to_Seismic_Coupling_over_Topography.git
 ```
 
 SPECFEM3D
