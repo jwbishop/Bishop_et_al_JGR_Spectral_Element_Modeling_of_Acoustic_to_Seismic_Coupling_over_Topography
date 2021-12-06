@@ -5,6 +5,8 @@ Parameter files for the SPECFEM3D runs used in
 <br />
 Bishop, J. W., Fee, D., Modrak, R., Tape, C. & Kim, K. (####). Spectral Element Modeling of Acoustic to Seismic Coupling over Topography, JGR: Solid Earth
 
+[![DOI](https://zenodo.org/badge/435504620.svg)](https://zenodo.org/badge/latestdoi/435504620)
+
 Installation
 ------------
 To download this repository, execute the following commands:
