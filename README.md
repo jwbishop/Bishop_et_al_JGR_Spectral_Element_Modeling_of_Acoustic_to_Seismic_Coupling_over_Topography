@@ -1,5 +1,5 @@
-Bishop_JGR_2021_Spectral_Element_Modeling_of_Acoustic_to_Seismic_Coupling_over_Topography
-=====================================================
+Spectral Element Modeling of Acoustic to Seismic Coupling over Topography
+===========================================================
 
 Parameter files for the SPECFEM3D runs used in
 <br />
